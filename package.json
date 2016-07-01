@@ -1,0 +1,28 @@
+{
+  "name": "feature-toggles-with-webpack",
+  "version": "0.0.0",
+  "description": "feature toggle",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyvernnot/feature-toggles-with-webpack.git"
+  },
+  "keywords": [
+    "feature",
+    "toggle"
+  ],
+  "author": "wyvernnot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wyvernnot/feature-toggles-with-webpack/issues"
+  },
+  "homepage": "https://github.com/wyvernnot/feature-toggles-with-webpack#readme",
+  "devDependencies": {
+    "rc": "^1.1.6",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
